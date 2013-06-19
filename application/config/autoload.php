@@ -27,8 +27,6 @@
 |
 */
 
-require_once APPPATH . '../vendor/autoload.php';
-
 /*
 | -------------------------------------------------------------------
 |  Auto-load Packges
